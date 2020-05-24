@@ -1,0 +1,5 @@
+Err commands
+
+001 = Bot has no permission to execute the command. 
+002 = User has no permission to run command.
+003 = Invalid Arguments
