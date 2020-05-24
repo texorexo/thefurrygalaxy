@@ -1,0 +1,14 @@
+{
+    "moderation": [
+        {
+            "temp-mute": [
+                {
+                    "description": "Temporarily mutes the selected user!",
+                    "usage": ".tempmute <user> reason",
+                    "accessible": "Moderators",
+                    "ailias": "tm, temp-mute"
+                }
+            ]
+        }
+    ]
+}
